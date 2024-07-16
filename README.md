@@ -3,6 +3,7 @@ Open source implementation of weight averaging with configurable alphas.
 Experiment on how the linear combination of two local minima behaves.
 
 Accuracy:
+
 ![linear_tunnel_acc](https://github.com/user-attachments/assets/a94139d7-9161-4007-8580-d4c981e48f24)
 
 Loss:
